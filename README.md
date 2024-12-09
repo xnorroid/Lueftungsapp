@@ -9,3 +9,10 @@ Diese App erinnert Sie in selbst definierten Intervallen daran, Ihre Räumlichke
 
 Damit Sie sich vergewissern können das regelmäßig gelüftet wurde, wird die genaue Uhrzeit und das Datum jeder Lüftungsphase auf ihrem Gerät gespeichert. Sie können diese Daten in der App aufrufen und auch als CSV-Datei exportieren, um sie in ein Tabellenkalkulationsprogramm zu übertragen.
 Die exportierten Daten finden Sie unter: Interner gemeinsamer Speicher -> Download -> Lueftungsapp_Daten.csv
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/03e478b4-c44a-45b5-a2ca-51d13253aad5" alt="Screenshot 1" width="270">
+  <img src="https://github.com/user-attachments/assets/0090b30f-c2ea-4dd5-a437-660ef1d942b2" alt="Screenshot 2" width="270">
+  <img src="https://github.com/user-attachments/assets/0f4b1fbe-d12c-4ea0-9390-eaefd845f7aa" alt="Screenshot 3" width="270">
+  <img src="https://github.com/user-attachments/assets/b8df8c4b-f1a6-400d-b3b7-bf556b63a045" alt="Screenshot 4" width="270">
+</div>
